@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuranApp</string>
+    <string name="google_maps_key">AIzaSyCVaN-vPq9z5avtbNOHOPBn7lM8HoI8MeM</string>
+    <string name="masjid_terdekat">Masjid Terdekat</string>
+    <string name="assalamualaikum">Assalamualaikum, halo!</string>
+    <string name="namaku">Assalamualaikum</string>
+    <string name="daftar_surah">Daftar Surah</string>
+    <string name="jadwal_sholat">Jadwal Sholat</string>
+    <string name="subuh">Subuh</string>
+    <string name="_05_30_am">05:30 AM</string>
+    <string name="dzuhur">Dzuhur</string>
+    <string name="ashar">Ashar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isya</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="_11_50_am">11:50 AM</string>
+    <string name="_15_04_pm">15:04 PM</string>
+    <string name="_17_52_pm">17:52 PM</string>
+    <string name="_19_02_pm">19:02 PM</string>
+    <string name="_05_47_am">05:47 AM</string>
+</resources>
